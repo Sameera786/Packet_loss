@@ -4,6 +4,6 @@
 #3. \" \n \t \'
 
 
-print(r"\\")
+print(r"\")
 print("/\/\/\/\/\ ")
 print(r" \" \n \t \'")
